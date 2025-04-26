@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "@tsed/passport": "^7.69.2",
-    "@tsed/testing-mongoose": "^7.67.5",
+    "@tsed/testing-mongoose": "^7.86.1",
     "@types/uuid": "^9.0.8",
     "amqplib": "^0.10.4",
     "cors": "^2.8.5",
