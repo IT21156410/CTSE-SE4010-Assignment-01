@@ -33,7 +33,7 @@
     "passport-local": "^1.0.0",
     "serve-favicon": "^2.5.0",
     "uuid": "^9.0.1",
-    "winston": "^3.13.0"
+    "winston": "^3.17.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.2.0",
