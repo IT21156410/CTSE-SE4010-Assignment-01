@@ -96,7 +96,7 @@ app.get("/", (req, res) => {
     const html = `
         <html lang="en">
         <head>
-            <title>Gateway™ API</title>
+            <title>Updated Gateway™ API</title>
             <style>
                 body { font-family: sans-serif; padding: 20px; background: #f4f4f4; }
                 h1 { color: darkred; }
